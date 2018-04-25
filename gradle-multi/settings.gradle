@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-multi'
+include 'gradle-multi-api'
+include 'gradle-multi-back'
